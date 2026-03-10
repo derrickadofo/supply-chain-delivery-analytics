@@ -44,6 +44,9 @@ Orders with **1-star reviews average 19.1 delivery days** and **3.73 delay days*
 ## Interactive Dashboard
 Explore the dashboard here: [https://public.tableau.com/views/SupplyChainDeliveryPerformanceDashboard/SupplyChainDeliveryPerformanceAnalysis?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
+## Dashboard Preview
+<img width="1998" height="1276" alt="Supply Chain Delivery Performance Analysis" src="https://github.com/user-attachments/assets/f5fb1be5-25b3-440d-a052-9a8c8196fb8b" />
+
 
 ## Tools Used
 - Python (Pandas,NumPy, Matplotlib)
@@ -54,7 +57,14 @@ Explore the dashboard here: [https://public.tableau.com/views/SupplyChainDeliver
 - `notebooks/02_exploratory_kpi_analysis.ipynb` — KPI analysis and insight generation
 - `data_processed/` — cleaned data outputs and Tableau export tables
 - `docs/exec_summary.md` — project summary and recommendations
-  
+
+
+## Skills Demonstrated
+- Data cleaning and feature engineering using Python
+- Exploratory data analysis with Pandas and NumPy
+- Logistics KPI modeling and operational analytics
+- Business insight generation and recommendation design
+- Data visualization and dashboard creation using Tableau
 
 ### License
 For educational and portfolio purposes.
