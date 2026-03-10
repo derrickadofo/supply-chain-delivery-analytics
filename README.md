@@ -47,8 +47,7 @@ Seller and regional performance insights
 Recommendations to improve supply chain efficiency
 
 ### Status
-Project in development.
-Results and dashboards will be added as the analysis progresses.
+Completed analytics project demonstrating an end-to-end workflow including data ingestion, analysis, and business intelligence visualization.
 
 ### License
 For educational and portfolio purposes.
